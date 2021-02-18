@@ -575,9 +575,10 @@ img {
     border-radius: .5rem;
     border: none;
     outline: none;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: bold; 
     cursor: pointer;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.3);
 }
 
 .send-email:hover {
