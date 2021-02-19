@@ -110,7 +110,7 @@ img {
 
  /* === CLASS CSS === */
  .section{
-     padding: 1rem;
+     padding: 1rem 2rem;
  }
 
  /* .section-title, .section-subtitle {
@@ -177,7 +177,7 @@ img {
     display: flex; 
     justify-content: space-between;
     align-items: center;
-    padding: 1rem;
+    padding: 1rem 2rem;
 }
 
 
@@ -267,7 +267,7 @@ img {
 .home-container {
     height: calc(100vh - var(--header-height));
     row-gap: 1rem;
-    padding-left: 1rem;
+    padding-left: 2rem;
 }
 
 
@@ -325,11 +325,10 @@ img {
 
 .home-scroll {
     /* align-content: flex-end; */
-    padding-bottom: var(--mb-3);
+    padding-bottom: 1rem;
+    margin-top: 3rem;
     /* display: inline-block; */
     font-size: 1.2rem;
-    float: right;
-    margin-right: 1.5rem;
     font-weight: bold;
 }
 
