@@ -321,8 +321,9 @@ img {
     cursor: pointer;
 }
 
-#cv-button {
-    color: var(--first-color);
+
+#cv-button:hover {
+    color: var(--white-color);
 }
 
 
@@ -795,7 +796,7 @@ img {
     }
 
     .portfolio-profile {
-        margin: 4rem 2.5rem;
+        margin: 2rem 2.5rem;
 
     } 
 
