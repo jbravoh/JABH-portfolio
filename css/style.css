@@ -321,6 +321,10 @@ img {
     cursor: pointer;
 }
 
+#cv-button {
+    color: var(--first-color);
+}
+
 
 
 .home-scroll {
